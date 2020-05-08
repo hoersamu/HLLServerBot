@@ -1,0 +1,20 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "@types/node": "^13.9.3",
+    "@types/underscore": "^1.9.4",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "gamedig": "^2.0.17",
+    "inversify": "^5.0.1",
+    "mathjs": "^6.5.0",
+    "mysql": "^2.17.1",
+    "nodemon": "^2.0.2",
+    "npm-run-all": "^4.1.5",
+    "package.json": "^2.0.1",
+    "reflect-metadata": "^0.1.13",
+    "rimraf": "^3.0.2",
+    "underscore": "^1.9.2"
+  }
+}

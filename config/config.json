@@ -1,0 +1,11 @@
+{
+    "discord": {
+        "secret": "bot-secret"
+    },
+    "database": {
+        "host": "hostname",
+        "user": "username",
+        "password":"password",
+        "database":"databasename"
+    }
+}
